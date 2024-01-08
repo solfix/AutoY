@@ -1,19 +1,19 @@
-# Y
+# Yang
 
 This repository contains the code and the data to train **AutoY and LSTMY** model.
 
 ​    Contact: 1974887272@qq.com
 ## Project Organization
-      ├── Y                     
+      ├── AutoY                     
          │
          │
          │     
          ├── README.md                   <- The README for users using AutoY and LSTMY.
          │
          │
-         ├── notebooks                      <- AutoY and LSTMY code for jupyter notebook. See README for their usages.
-         │   ├── AutoY.ipynb              <- Trainingd and predictions AutoY models.
-         │   ├── LSTMY.ipynb              <- Trainingd and predictions LSTMY models. 
+         ├── notebooks                   <- AutoY and LSTMY code for jupyter notebook. See README for their usages.
+         │   ├── AutoY.ipynb             <- Trainingd and predictions AutoY models.
+         │   ├── LSTMY.ipynb             <- Trainingd and predictions LSTMY models. 
          │   ├── Raw_data_processing.ipynb     <- Processing raw data for AutoY models.
          │
          ├── data                       <- Data for training and testing.See README for their usages.
@@ -28,8 +28,8 @@ This repository contains the code and the data to train **AutoY and LSTMY** mode
          ├── model
          │   ├── AutoY                <- Model for storing the optimal AutoY  
          │   ├── LSTMY                <- Model for storing the optimal LSTMY    
-         ├── python_codes                 <- Code for EarlyStopping    
-          
+         ├── python_codes             <- Code for EarlyStopping    
+         ├── LICENSE                  <- copyright statement  
        
              
 
