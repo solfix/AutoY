@@ -2,7 +2,8 @@
 
 This repository contains the code and the data to train **AutoY and LSTMY** model.
 
-​    Contact: 1974887272@qq.com
+​    Contact: 1974887272@qq.com; solfix123@163.com
+
 ## Project Organization
       ├── AutoY                     
          │
