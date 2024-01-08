@@ -29,7 +29,7 @@ This repository contains the code and the data to train **AutoY and LSTMY** mode
          │   ├── AutoY                <- Model for storing the optimal AutoY  
          │   ├── LSTMY                <- Model for storing the optimal LSTMY    
          ├── python_codes                 <- Code for EarlyStopping    
-         ├── Oringl Data.7z                <- Original documents for four autoimmune diseases    
+          
        
              
 
