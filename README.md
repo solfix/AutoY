@@ -72,7 +72,7 @@ You can use the following command to extract TCR and its frequency information f
  -----output =  "../The path to the file you want to save/"  #Save the path to the processed file
 ```
 
-### Cancer index prediction with pre-trained models
+### Predicting the Autoimmune Disease Index using pre-trained models
 
 Prediction of all TCR files in a directory
 
